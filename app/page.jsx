@@ -13,7 +13,7 @@ import nine from "@/public/leumax/nine.JPG";
 import landing from "@/public/landing.png";
 import ux from "@/public/ux.png";
 import it from "@/public/it-solutions.png";
-import js from "@/public/homeIcons/js.svg";
+import js from "@/public/homeicons/js.svg";
 import next from "@/public/homeicons/nextjs.svg";
 import tail from "@/public/homeicons/tailwind.svg";
 import css from "@/public/homeicons/css.svg";
